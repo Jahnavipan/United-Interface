@@ -6,7 +6,7 @@ A unified platform designed to centralize and streamline company operations acro
 ## Check out the live demo of the platform at:
 https://unisync-8sv9.onrender.com/
 
-User ID: rishabh@gmail.com Password: 1625
+User ID: jahnavi@gmail.com Password: 1625
 
 ## Features
 - **User-Specific Dashboards:** Each department has access to a custom dashboard tailored to its specific needs and workflows.
